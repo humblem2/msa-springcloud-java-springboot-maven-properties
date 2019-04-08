@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.PatientMapper">
+	<!-- PatientDTO -->
+	<resultMap 	id="patientDTOSelectMap" 		type="patientDTO">
+		<!-- 			 자바필드명 				컬럼명						 o-jdbc타입						  자바타입			-->
+		<result property="id" 					column="id" 				jdbcType="INTEGER" 	/>  
+		
+		<result property="name" 				column="name" 				jdbcType="VARCHAR"  /> 
+		<result property="lastname" 			column="lastname" 			jdbcType="VARCHAR" 	/> 
+		<result property="email" 				column="email" 				jdbcType="VARCHAR" 	/> 
+		<result property="phone" 				column="phone" 				jdbcType="VARCHAR" 	/>
+		<result property="active" 				column="active" 			jdbcType="INTEGER" 	/> 
+		<result property="hospitalname" 		column="hospitalname" 		jdbcType="VARCHAR" 	/>
+		
+		
+		<!-- <result property="reg_dt" 			column="reg_dt" 			jdbcType="TIMESTAMP"/> -->
+		<!-- <result property="reg_id" 			column="reg_id" 			jdbcType="VARCHAR" 	/> -->   
+		<!-- <result property="mod_dt" 			column="mod_dt" 			jdbcType="TIMESTAMP"/> -->
+		<!-- <result property="mod_id" 			column="mod_id" 			jdbcType="VARCHAR" 	/> -->
+	</resultMap>
+	
+	<!-- SELECT LIST -->
+	<select id="selectPatientList" resultType="com.example.article.domain.PatientDTO">
+	   		SELECT * FROM cproj_test.patient
+	</select>	
+</mapper>

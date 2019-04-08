@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    
+    <include resource="log/console.xml" />
+    <include resource="log/file.xml" />
+    
+    <!-- 영향 있음? -->
+    <!-- <property name="LOG_PATH" value="${LOG_PATH:-${LOG_TEMP:-${java.io.tmpdir:-/tmp}}}" /> -->
+    
+    <!-- LOG everything at INFO level -->
+    <root level="info">
+        
+        <springProfile name="dev">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        <springProfile name="beta">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        <springProfile name="real">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        
+    </root>
+    
+    <!-- LOG "com.example*" at TRACE level -->
+    <logger name="com.example" level="trace" additivity="false">
+        <!-- <appender-ref ref="RollingFile" />
+        <appender-ref ref="Console" /> -->
+        
+        <springProfile name="dev">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        <springProfile name="beta">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        <springProfile name="real">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DAILY_ROLLINGFILE"/>
+        </springProfile>
+        
+    </logger>
+    
+</configuration>

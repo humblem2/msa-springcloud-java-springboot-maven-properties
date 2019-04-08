@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.osstem</groupId>
+	<artifactId>helloworld-backend-2</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<description>Demo project for Spring Boot</description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.0.2.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+		<spring-cloud.version>Finchley.RC2</spring-cloud.version>
+	</properties>
+
+	<dependencies>
+		<!-- EUREKA 설정 -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-config</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+    		<groupId>org.springframework.boot</groupId>
+    		<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<!-- JPA : UNUSED-->
+		<dependency>
+    		<groupId>org.springframework.boot</groupId>
+    		<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+		<!-- ACTUATOR : actuator는 health check, monitoring, metrics 등등 다양한 기능을 지원하는데 나는 health check 용으로 밖에 안 써봄-->
+		<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+		<!-- HIBERNATE : UNUSED-->
+		<dependency>
+    		<groupId>org.hibernate</groupId>
+    		<artifactId>hibernate-validator</artifactId>
+    		<version>5.3.6.Final</version>
+		</dependency>
+		<!-- SWAGGER : 스웨거 명세서의 스프링 폭스 구현체 -->
+		<dependency>
+    		<groupId>io.springfox</groupId>
+    		<artifactId>springfox-swagger2</artifactId>
+    		<version>2.0.1</version>
+		</dependency>
+		
+		<dependency>
+    		<groupId>io.springfox</groupId>
+    		<artifactId>springfox-swagger-ui</artifactId>
+    		<version>2.0.1</version>
+		</dependency>
+		
+		<dependency>
+    		<groupId>org.hsqldb</groupId>
+    		<artifactId>hsqldb</artifactId>
+    		<scope>runtime</scope>
+		</dependency>
+		
+		 <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+        </dependency>
+        <!--JDBC -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+            <version>1.4.1.RELEASE</version>
+        </dependency>
+                
+        <!-- MYSQL -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.6</version>
+        </dependency>
+ 
+        <!--MyBatis -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+              <artifactId>mybatis-spring-boot-starter</artifactId>
+               <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis-spring</artifactId>
+            <version>1.3.0</version>
+        </dependency>        
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.4.2</version>
+        </dependency>
+ 
+		<!-- LOMBOK -->
+		<dependency>
+    		<groupId>org.projectlombok</groupId>
+    		<artifactId>lombok</artifactId>
+    		<version>1.16.20</version>
+    		<scope>provided</scope>
+		</dependency>
+		
+		<dependency>
+    		<groupId>org.springframework.cloud</groupId>
+    		<artifactId>spring-cloud-starter-eureka-server</artifactId>
+    		<version>1.1.5.RELEASE</version>
+		</dependency>
+		
+		<!-- :: util :: -->
+        <!-- GUAVA - https://mvnrepository.com/artifact/com.google.guava/guava -->
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>19.0</version>
+		</dependency>
+        <!-- COMMONS LANG -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.7</version>
+		</dependency>
+		<!-- TODO: JASYPT Encryption -->
+        
+		
+	</dependencies>
+	
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-dependencies</artifactId>
+				<version>${spring-cloud.version}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>	
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+	
+	<repositories>
+		<repository>
+			<id>spring-snapshots</id>
+			<name>Spring Snapshots</name>
+			<url>https://repo.spring.io/snapshot</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>spring-milestones</id>
+			<name>Spring Milestones</name>
+			<url>https://repo.spring.io/milestone</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+
+
+	<name>helloworld-backend-2</name>
+</project>

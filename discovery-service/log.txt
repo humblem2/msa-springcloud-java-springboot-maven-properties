@@ -1,0 +1,299 @@
+nohup: ignoring input
+##############################
+##############################
+PORT=9877
+##############################
+##############################
+key : java.runtime.name, value : Java(TM) SE Runtime Environment
+key : java.protocol.handler.pkgs, value : null|org.springframework.boot.loader
+key : sun.boot.library.path, value : C:\Program Files\Java\jre1.8.0_121\bin
+key : java.vm.version, value : 25.121-b13
+key : java.vm.vendor, value : Oracle Corporation
+key : java.vendor.url, value : http://java.oracle.com/
+key : path.separator, value : ;
+key : java.vm.name, value : Java HotSpot(TM) 64-Bit Server VM
+key : file.encoding.pkg, value : sun.io
+key : user.country, value : KR
+key : user.script, value : 
+key : sun.java.launcher, value : SUN_STANDARD
+key : sun.os.patch.level, value : Service Pack 1
+key : java.vm.specification.name, value : Java Virtual Machine Specification
+key : user.dir, value : C:\workspace-sts\spring-cloud-zuul-config-eureka-merge-test\discovery-service
+key : java.runtime.version, value : 1.8.0_121-b13
+key : java.awt.graphicsenv, value : sun.awt.Win32GraphicsEnvironment
+key : java.endorsed.dirs, value : C:\Program Files\Java\jre1.8.0_121\lib\endorsed
+key : os.arch, value : amd64
+key : spring.profiles.active, value : dev
+key : java.io.tmpdir, value : C:\Users\user\AppData\Local\Temp\
+key : line.separator, value : 
+
+key : java.vm.specification.vendor, value : Oracle Corporation
+key : user.variant, value : 
+key : os.name, value : Windows 7
+key : sun.jnu.encoding, value : MS949
+key : java.library.path, value : C:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\user\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\user\bin;C:\Users\user\AppData\Local\SourceTree\app-2.1.10\lib\win32\x64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Windows\softcamp\sds;C:\Windows\softcamp\sdk;C:\Windows\Softcamp\SDS\x64;C:\Windows\SoftCamp\SDK\x64;C:\Program Files\Java\jdk1.8.0_121\bin;C:\apache-tomcat-8.0.41\bin;C:\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Program Files\PuTTY;C:\Users\user\AppData\Local\atom\bin;C:\Users\user\AppData\Local\Programs\Fiddler;C:\Program Files\Bandizip;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+key : java.specification.name, value : Java Platform API Specification
+key : java.class.version, value : 52.0
+key : sun.management.compiler, value : HotSpot 64-Bit Tiered Compilers
+key : os.version, value : 6.1
+key : user.home, value : C:\Users\user
+key : user.timezone, value : Asia/Seoul
+key : java.awt.printerjob, value : sun.awt.windows.WPrinterJob
+key : file.encoding, value : MS949
+key : java.specification.version, value : 1.8
+key : java.class.path, value : target/discovery-service-2-0.0.1-SNAPSHOT.jar
+key : user.name, value : user
+key : java.vm.specification.version, value : 1.8
+key : sun.java.command, value : target/discovery-service-2-0.0.1-SNAPSHOT.jar PORT=9877
+key : java.home, value : C:\Program Files\Java\jre1.8.0_121
+key : sun.arch.data.model, value : 64
+key : user.language, value : ko
+key : java.specification.vendor, value : Oracle Corporation
+key : awt.toolkit, value : sun.awt.windows.WToolkit
+key : java.vm.info, value : mixed mode
+key : java.version, value : 1.8.0_121
+key : java.ext.dirs, value : C:\Program Files\Java\jre1.8.0_121\lib\ext;C:\Windows\Sun\Java\lib\ext
+key : sun.boot.class.path, value : C:\Program Files\Java\jre1.8.0_121\lib\resources.jar;C:\Program Files\Java\jre1.8.0_121\lib\rt.jar;C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_121\lib\jce.jar;C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_121\classes
+key : java.vendor, value : Oracle Corporation
+key : file.separator, value : \
+key : java.vendor.url.bug, value : http://bugreport.sun.com/bugreport/
+key : sun.io.unicode.encoding, value : UnicodeLittle
+key : sun.cpu.endian, value : little
+key : sun.desktop, value : windows
+key : sun.cpu.isalist, value : amd64
+[30m2018-08-21 17:11:22,361[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.a.AnnotationConfigApplicationContext[0;39m] [33morg.springframework.context.support.AbstractApplicationContext[0;39m: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@368102c8: startup date [Tue Aug 21 17:11:22 KST 2018]; root of context hierarchy
+[30m2018-08-21 17:11:22,849[0;39m [34mINFO [0;39m --- [[34mbackground-preinit[0;39m] [[32mo.h.v.i.u.Version[0;39m] [33morg.hibernate.validator.internal.util.Version[0;39m: HV000001: Hibernate Validator 5.2.4.Final
+[30m2018-08-21 17:11:22,983[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.f.a.AutowiredAnnotationBeanPostProcessor[0;39m] [33morg.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor[0;39m: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[30m2018-08-21 17:11:23,070[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker[0;39m] [33morg.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker[0;39m: Bean 'configurationPropertiesRebinderAutoConfiguration' of type [class org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$7e57ccf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.0.RELEASE)
+
+[30m2018-08-21 17:11:23,892[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.c.c.ConfigServicePropertySourceLocator[0;39m] [33morg.springframework.cloud.config.client.ConfigServicePropertySourceLocator[0;39m: Fetching config from server at: http://localhost:8888/
+[30m2018-08-21 17:11:25,297[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.c.c.ConfigServicePropertySourceLocator[0;39m] [33morg.springframework.cloud.config.client.ConfigServicePropertySourceLocator[0;39m: Located environment: name=discovery-service-2, profiles=[dev], label=master, version=ece8d321bed3f6eae2503301cf484dfc463fe981
+[30m2018-08-21 17:11:25,298[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.b.c.PropertySourceBootstrapConfiguration[0;39m] [33morg.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration[0;39m: Located property source: CompositePropertySource [name='configService', propertySources=[MapPropertySource [name='https://github.com/humblem2/test-config/discovery-service-2-dev.properties'], MapPropertySource [name='https://github.com/humblem2/test-config/discovery-service-2.properties'], MapPropertySource [name='https://github.com/humblem2/test-config/application.properties']]]
+[30m2018-08-21 17:11:25,372[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mc.e.DiscoveryServiceApplication[0;39m] [33morg.springframework.boot.SpringApplication[0;39m: The following profiles are active: dev
+[30m2018-08-21 17:11:25,410[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext[0;39m] [33morg.springframework.context.support.AbstractApplicationContext[0;39m: Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@566776ad: startup date [Tue Aug 21 17:11:25 KST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@368102c8
+[30m2018-08-21 17:11:27,293[0;39m [31mWARN [0;39m --- [[34mmain[0;39m] [[32mo.s.c.a.ConfigurationClassPostProcessor[0;39m] [33morg.springframework.context.annotation.ConfigurationClassPostProcessor[0;39m: Cannot enhance @Configuration bean definition 'refreshScope' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+[30m2018-08-21 17:11:27,449[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.c.s.GenericScope[0;39m] [33morg.springframework.cloud.context.scope.GenericScope[0;39m: BeanFactory id=f1522c4b-6e53-30d7-bc9e-055629c9d5f4
+[30m2018-08-21 17:11:27,458[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.f.a.AutowiredAnnotationBeanPostProcessor[0;39m] [33morg.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor[0;39m: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[30m2018-08-21 17:11:27,513[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker[0;39m] [33morg.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker[0;39m: Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [class org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$7e57ccf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[30m2018-08-21 17:11:27,641[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.r.DefaultTraversableResolver[0;39m] [33morg.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver[0;39m: Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[30m2018-08-21 17:11:27,642[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[30m2018-08-21 17:11:27,642[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[30m2018-08-21 17:11:27,643[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy32
+[30m2018-08-21 17:11:27,643[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: Trying to load META-INF/validation.xml for XML based Validator configuration.
+[30m2018-08-21 17:11:27,643[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via user class loader
+[30m2018-08-21 17:11:27,644[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via TCCL
+[30m2018-08-21 17:11:27,644[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[30m2018-08-21 17:11:27,645[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: No META-INF/validation.xml found. Using annotation based configuration only.
+[30m2018-08-21 17:11:28,167[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.c.e.t.TomcatEmbeddedServletContainer[0;39m] [33morg.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer[0;39m: Tomcat initialized with port(s): 8761 (http)
+[30m2018-08-21 17:11:28,186[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.c.StandardService[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Starting service Tomcat
+[30m2018-08-21 17:11:28,189[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.c.StandardEngine[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Starting Servlet Engine: Apache Tomcat/8.5.4
+[30m2018-08-21 17:11:28,337[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.a.c.c.C.[.[.[/][0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Initializing Spring embedded WebApplicationContext
+[30m2018-08-21 17:11:28,338[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.w.c.ContextLoader[0;39m] [33morg.springframework.boot.context.embedded.EmbeddedWebApplicationContext[0;39m: Root WebApplicationContext: initialization completed in 2928 ms
+[30m2018-08-21 17:11:29,435[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'metricFilter' to: [/*]
+[30m2018-08-21 17:11:29,436[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'characterEncodingFilter' to: [/*]
+[30m2018-08-21 17:11:29,437[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[30m2018-08-21 17:11:29,437[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[30m2018-08-21 17:11:29,437[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'requestContextFilter' to: [/*]
+[30m2018-08-21 17:11:29,438[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.c.e.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'webRequestTraceFilter' to: [/*]
+[30m2018-08-21 17:11:29,438[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.c.e.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'servletContainer' to urls: [/eureka/*]
+[30m2018-08-21 17:11:29,438[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.FilterRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.AbstractFilterRegistrationBean[0;39m: Mapping filter: 'applicationContextIdFilter' to: [/*]
+[30m2018-08-21 17:11:29,438[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mo.s.b.w.s.ServletRegistrationBean[0;39m] [33morg.springframework.boot.web.servlet.ServletRegistrationBean[0;39m: Mapping servlet: 'dispatcherServlet' to [/]
+[30m2018-08-21 17:11:29,689[0;39m [34mINFO [0;39m --- [[34mlocalhost-startStop-1[0;39m] [[32mc.s.j.s.i.a.WebApplicationImpl[0;39m] [33mcom.sun.jersey.server.impl.application.WebApplicationImpl[0;39m: Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+[30m2018-08-21 17:11:30,944[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.n.e.InstanceInfoFactory[0;39m] [33morg.springframework.cloud.netflix.eureka.InstanceInfoFactory[0;39m: Setting initial instance status as: STARTING
+[30m2018-08-21 17:11:32,803[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.r.DefaultTraversableResolver[0;39m] [33morg.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver[0;39m: Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[30m2018-08-21 17:11:32,804[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[30m2018-08-21 17:11:32,805[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[30m2018-08-21 17:11:32,805[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy32
+[30m2018-08-21 17:11:32,806[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: Trying to load META-INF/validation.xml for XML based Validator configuration.
+[30m2018-08-21 17:11:32,806[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via user class loader
+[30m2018-08-21 17:11:32,807[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via TCCL
+[30m2018-08-21 17:11:32,808[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[30m2018-08-21 17:11:32,808[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: No META-INF/validation.xml found. Using annotation based configuration only.
+[30m2018-08-21 17:11:32,840[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.m.m.a.RequestMappingHandlerAdapter[0;39m] [33morg.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter[0;39m: Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@566776ad: startup date [Tue Aug 21 17:11:25 KST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@368102c8
+[30m2018-08-21 17:11:33,299[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.m.m.a.RequestMappingHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.status(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+[30m2018-08-21 17:11:33,301[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.m.m.a.RequestMappingHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/lastn],methods=[GET]}" onto public java.lang.String org.springframework.cloud.netflix.eureka.server.EurekaController.lastn(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.Object>)
+[30m2018-08-21 17:11:33,303[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.m.m.a.RequestMappingHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[30m2018-08-21 17:11:33,304[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.m.m.a.RequestMappingHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[30m2018-08-21 17:11:33,337[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.h.SimpleUrlHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractUrlHandlerMapping[0;39m: Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[30m2018-08-21 17:11:33,338[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.h.SimpleUrlHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractUrlHandlerMapping[0;39m: Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[30m2018-08-21 17:11:33,389[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.h.SimpleUrlHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractUrlHandlerMapping[0;39m: Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[30m2018-08-21 17:11:33,921[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+[30m2018-08-21 17:11:33,922[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/env || /env.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,922[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,923[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/info || /info.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,924[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,925[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,926[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/restart || /restart.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.restart.RestartMvcEndpoint.invoke()
+[30m2018-08-21 17:11:33,928[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,928[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/env],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.value(java.util.Map<java.lang.String, java.lang.String>)
+[30m2018-08-21 17:11:33,929[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/env/reset],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.reset()
+[30m2018-08-21 17:11:33,930[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/shutdown || /shutdown.json],methods=[POST]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.ShutdownMvcEndpoint.invoke()
+[30m2018-08-21 17:11:33,931[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/pause || /pause.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+[30m2018-08-21 17:11:33,932[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,932[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/refresh || /refresh.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+[30m2018-08-21 17:11:33,934[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,936[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+[30m2018-08-21 17:11:33,937[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/health || /health.json],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)
+[30m2018-08-21 17:11:33,938[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/features || /features.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,938[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+[30m2018-08-21 17:11:33,939[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/resume || /resume.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+[30m2018-08-21 17:11:33,940[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:33,941[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+[30m2018-08-21 17:11:33,941[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.m.EndpointHandlerMapping[0;39m] [33morg.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry[0;39m: Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+[30m2018-08-21 17:11:34,199[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.u.f.SpringTemplateLoader[0;39m] [33morg.springframework.ui.freemarker.SpringTemplateLoader[0;39m: SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@566776ad: startup date [Tue Aug 21 17:11:25 KST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@368102c8] and template loader path [classpath:/templates/]
+[30m2018-08-21 17:11:34,203[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.w.s.v.f.FreeMarkerConfigurer[0;39m] [33morg.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer[0;39m: ClassTemplateLoader for Spring macros added to FreeMarker configuration
+[30m2018-08-21 17:11:34,327[0;39m [31mWARN [0;39m --- [[34mmain[0;39m] [[32mc.n.c.s.URLConfigurationSource[0;39m] [33mcom.netflix.config.sources.URLConfigurationSource[0;39m: No URLs will be polled as dynamic configuration sources.
+[30m2018-08-21 17:11:34,328[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mc.n.c.s.URLConfigurationSource[0;39m] [33mcom.netflix.config.sources.URLConfigurationSource[0;39m: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[30m2018-08-21 17:11:34,343[0;39m [31mWARN [0;39m --- [[34mmain[0;39m] [[32mc.n.c.s.URLConfigurationSource[0;39m] [33mcom.netflix.config.sources.URLConfigurationSource[0;39m: No URLs will be polled as dynamic configuration sources.
+[30m2018-08-21 17:11:34,343[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mc.n.c.s.URLConfigurationSource[0;39m] [33mcom.netflix.config.sources.URLConfigurationSource[0;39m: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[30m2018-08-21 17:11:34,446[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Registering beans for JMX exposure on startup
+[30m2018-08-21 17:11:34,458[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Bean with name 'refreshScope' has been autodetected for JMX exposure
+[30m2018-08-21 17:11:34,459[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Bean with name 'environmentManager' has been autodetected for JMX exposure
+[30m2018-08-21 17:11:34,460[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+[30m2018-08-21 17:11:34,461[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Bean with name 'refreshEndpoint' has been autodetected for JMX exposure
+[30m2018-08-21 17:11:34,461[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Bean with name 'restartEndpoint' has been autodetected for JMX exposure
+[30m2018-08-21 17:11:34,466[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+[30m2018-08-21 17:11:34,486[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'restartEndpoint': registering with JMX server as MBean [org.springframework.cloud.context.restart:name=restartEndpoint,type=RestartEndpoint]
+[30m2018-08-21 17:11:34,497[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+[30m2018-08-21 17:11:34,509[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=566776ad,type=ConfigurationPropertiesRebinder]
+[30m2018-08-21 17:11:34,516[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'refreshEndpoint': registering with JMX server as MBean [org.springframework.cloud.endpoint:name=refreshEndpoint,type=RefreshEndpoint]
+[30m2018-08-21 17:11:34,517[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Registering beans for JMX exposure on startup
+[30m2018-08-21 17:11:34,715[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.r.DefaultTraversableResolver[0;39m] [33morg.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver[0;39m: Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[30m2018-08-21 17:11:34,716[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[30m2018-08-21 17:11:34,716[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[30m2018-08-21 17:11:34,716[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.e.ConfigurationImpl[0;39m] [33morg.hibernate.validator.internal.engine.ConfigurationImpl[0;39m: Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy32
+[30m2018-08-21 17:11:34,716[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: Trying to load META-INF/validation.xml for XML based Validator configuration.
+[30m2018-08-21 17:11:34,716[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via user class loader
+[30m2018-08-21 17:11:34,717[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via TCCL
+[30m2018-08-21 17:11:34,717[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ResourceLoaderHelper[0;39m] [33morg.hibernate.validator.internal.xml.ResourceLoaderHelper[0;39m: Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[30m2018-08-21 17:11:34,718[0;39m [39mDEBUG[0;39m --- [[34mmain[0;39m] [[32mo.h.v.i.x.ValidationXmlParser[0;39m] [33morg.hibernate.validator.internal.xml.ValidationXmlParser[0;39m: No META-INF/validation.xml found. Using annotation based configuration only.
+[30m2018-08-21 17:11:34,737[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.s.DefaultLifecycleProcessor[0;39m] [33morg.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup[0;39m: Starting beans in phase 0
+[30m2018-08-21 17:11:34,744[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerBootstrap[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap[0;39m: Setting the eureka configuration..
+[30m2018-08-21 17:11:34,744[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.n.e.EurekaDiscoveryClientConfiguration[0;39m] [33morg.springframework.cloud.netflix.eureka.EurekaDiscoveryClientConfiguration[0;39m: Registering application discovery-service-2 with eureka with status UP
+[30m2018-08-21 17:11:34,744[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerBootstrap[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap[0;39m: Eureka data center value eureka.datacenter is not set, defaulting to default
+[30m2018-08-21 17:11:34,747[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerBootstrap[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap[0;39m: Eureka environment value eureka.environment is not set, defaulting to test
+[30m2018-08-21 17:11:34,758[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'featuresEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=featuresEndpoint]
+[30m2018-08-21 17:11:34,778[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'requestMappingEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=requestMappingEndpoint]
+[30m2018-08-21 17:11:34,780[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'environmentEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=environmentEndpoint]
+[30m2018-08-21 17:11:34,783[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'healthEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=healthEndpoint]
+[30m2018-08-21 17:11:34,786[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'beansEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=beansEndpoint]
+[30m2018-08-21 17:11:34,789[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'infoEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=infoEndpoint]
+[30m2018-08-21 17:11:34,792[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'metricsEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=metricsEndpoint]
+[30m2018-08-21 17:11:34,795[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'traceEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=traceEndpoint]
+[30m2018-08-21 17:11:34,797[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'dumpEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=dumpEndpoint]
+[30m2018-08-21 17:11:34,800[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'autoConfigurationReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=autoConfigurationReportEndpoint]
+[30m2018-08-21 17:11:34,802[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'shutdownEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=shutdownEndpoint]
+[30m2018-08-21 17:11:34,810[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerBootstrap[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap[0;39m: isAws returned false
+[30m2018-08-21 17:11:34,812[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'configurationPropertiesReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=configurationPropertiesReportEndpoint]
+[30m2018-08-21 17:11:34,813[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerBootstrap[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap[0;39m: Initialized server context
+[30m2018-08-21 17:11:34,815[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Located managed bean 'archaiusEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=archaiusEndpoint]
+[30m2018-08-21 17:11:34,850[0;39m [34mINFO [0;39m --- [[34mThread-10[0;39m] [[32mo.s.c.n.e.s.EurekaServerInitializerConfiguration[0;39m] [33morg.springframework.cloud.netflix.eureka.server.EurekaServerInitializerConfiguration$1[0;39m: Started Eureka Server
+[30m2018-08-21 17:11:34,875[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Initializing ProtocolHandler ["http-nio-8761"]
+[30m2018-08-21 17:11:34,897[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Starting ProtocolHandler [http-nio-8761]
+[30m2018-08-21 17:11:34,905[0;39m [1;31mERROR[0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Failed to start end point associated with ProtocolHandler [http-nio-8761]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:229)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:573)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1035)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:152)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:234)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:179)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:369)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:313)
+	at com.example.DiscoveryServiceApplication.main(DiscoveryServiceApplication.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:58)
+[30m2018-08-21 17:11:34,907[0;39m [1;31mERROR[0;39m --- [[34mmain[0;39m] [[32mo.a.c.c.StandardService[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Failed to start connector [Connector[HTTP/1.1-8761]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8761]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:158)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:234)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:179)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:544)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:369)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:313)
+	at com.example.DiscoveryServiceApplication.main(DiscoveryServiceApplication.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:58)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:152)
+	... 19 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:229)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:874)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:573)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1035)
+	... 20 common frames omitted
+[30m2018-08-21 17:11:34,925[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Pausing ProtocolHandler ["http-nio-8761"]
+[30m2018-08-21 17:11:34,925[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.c.StandardService[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Stopping service Tomcat
+[30m2018-08-21 17:11:34,938[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.u.LifecycleBase[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[30m2018-08-21 17:11:34,939[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Stopping ProtocolHandler ["http-nio-8761"]
+[30m2018-08-21 17:11:34,939[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.a.c.h.Http11NioProtocol[0;39m] [33morg.apache.juli.logging.DirectJDKLog[0;39m: Destroying ProtocolHandler ["http-nio-8761"]
+[30m2018-08-21 17:11:34,946[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.l.AutoConfigurationReportLoggingInitializer[0;39m] [33morg.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer[0;39m: 
+
+Error starting ApplicationContext. To display the auto-configuration report enable debug logging (start with --debug)
+
+
+[30m2018-08-21 17:11:34,990[0;39m [1;31mERROR[0;39m --- [[34mmain[0;39m] [[32mo.s.b.d.LoggingFailureAnalysisReporter[0;39m] [33morg.springframework.boot.diagnostics.LoggingFailureAnalysisReporter[0;39m: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Embedded servlet container failed to start. Port 8761 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8761 or configure this application to listen on another port.
+
+[30m2018-08-21 17:11:34,993[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext[0;39m] [33morg.springframework.context.support.AbstractApplicationContext[0;39m: Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@566776ad: startup date [Tue Aug 21 17:11:25 KST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@368102c8
+[30m2018-08-21 17:11:34,994[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.n.e.EurekaDiscoveryClientConfiguration[0;39m] [33morg.springframework.cloud.netflix.eureka.EurekaDiscoveryClientConfiguration[0;39m: Unregistering application discovery-service-2 with eureka with status DOWN
+[30m2018-08-21 17:11:35,010[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.c.s.DefaultLifecycleProcessor[0;39m] [33morg.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup[0;39m: Stopping beans in phase 0
+[30m2018-08-21 17:11:35,016[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Unregistering JMX-exposed beans on shutdown
+[30m2018-08-21 17:11:35,017[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.b.a.e.j.EndpointMBeanExporter[0;39m] [33morg.springframework.jmx.support.MBeanRegistrationSupport[0;39m: Unregistering JMX-exposed beans
+[30m2018-08-21 17:11:35,017[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.export.MBeanExporter[0;39m: Unregistering JMX-exposed beans on shutdown
+[30m2018-08-21 17:11:35,018[0;39m [34mINFO [0;39m --- [[34mmain[0;39m] [[32mo.s.j.e.a.AnnotationMBeanExporter[0;39m] [33morg.springframework.jmx.support.MBeanRegistrationSupport[0;39m: Unregistering JMX-exposed beans
