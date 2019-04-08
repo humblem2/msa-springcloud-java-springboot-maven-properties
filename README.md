@@ -1,8 +1,7 @@
-# msa-springcloud-java-springboot-maven-properties
+# About msa-springcloud-java-springboot-maven-properties with external remote reposirtory as config-server
 
-# About test-private-config
 > This is description of spring-cloud-config-repository 
-> for "SHARE CONTACT Project (based on MSA Skeleton)"
+> for "SHARE CONTACT Project (based on MSA Skeleton)" with whdms705
 
 ### SW Side:
 - Springboot Application Runnable JAR
