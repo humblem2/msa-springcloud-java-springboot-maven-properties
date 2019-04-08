@@ -1,7 +1,7 @@
-# About codes with remote reposirtory as config-server
+# 프로젝트 설명 : About codes with remote reposirtory as config-server
 
 > This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [OSS Netflix](https://netflix.github.io/))
-> for __"SHARE CONTACT Project__ (based on MSA Skeleton)" . And Also Project is maded with __whdms705__.
+> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__.
 
 ### SW Side:
 - `Springboot` Application `Runnable JAR`
