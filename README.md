@@ -1,7 +1,7 @@
 # About codes with remote reposirtory as config-server
 
 > This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [OSS Netflix](https://netflix.github.io/))
-> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__.
+> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__. Thanks 
 
 ### SW Side:
 - `Springboot` Application `Runnable JAR`
@@ -58,5 +58,5 @@
 - https://swagger.io/
 
 ### Reference
-- [Leekyoungil님, Naver](http://blog.leekyoungil.com) / [github](https://github.com/Leekyoungil)
+- [LeeKyoungIl님, Naver](http://blog.leekyoungil.com) / [github](https://github.com/Leekyoungil)
 - [정윤진님, 피보탈 랩](http://www.comworld.co.kr/news/articleView.html?idxno=49227)
