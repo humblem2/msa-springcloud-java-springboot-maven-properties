@@ -58,5 +58,5 @@
 - https://swagger.io/
 
 ### Reference
-- [LeeKyoungIl님, Naver](http://blog.leekyoungil.com) / [github](https://github.com/Leekyoungil)
+- LeeKyoungIl님, Naver / [github](https://github.com/Leekyoungil) / [blog](http://blog.leekyoungil.com)
 - [정윤진님, 피보탈 랩](http://www.comworld.co.kr/news/articleView.html?idxno=49227)
