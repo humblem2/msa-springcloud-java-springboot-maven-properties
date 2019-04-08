@@ -4,7 +4,7 @@
 > for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__.
 
 ### SW Side:
-- Springboot Application Runnable JAR
+- `Springboot` Application `Runnable JAR`
 - Using `Embed WAS` and Build/Package/`runnable jar`
     Servlet Engine: Apache Tomcat/`8.5.4`, Apache Tomcat/`8.5.31`
 - Springboot version:
