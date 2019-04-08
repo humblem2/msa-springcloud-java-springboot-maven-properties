@@ -56,4 +56,5 @@
 - https://swagger.io/
 
 ### Reference
-- [Leekyoungil님](http://blog.leekyoungil.com)
+- [Leekyoungil님, Naver](http://blog.leekyoungil.com)
+- [정윤진님, 피보탈 랩](http://www.comworld.co.kr/news/articleView.html?idxno=49227)
