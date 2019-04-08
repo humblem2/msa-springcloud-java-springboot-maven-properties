@@ -57,6 +57,6 @@
 - https://github.com/VanillaLab/test-private-config
 - https://swagger.io/
 
-### Reference
-- LeeKyoungIl님, Naver / [github](https://github.com/Leekyoungil) / [blog](http://blog.leekyoungil.com)
+### Reference(Really thanks to..)
+- [LeeKyoungIl](https://www.linkedin.com/in/kyoungil-lee-5bb2539b?trk=hp-identity-photo)님, Naver / [github](https://github.com/Leekyoungil) / [blog](http://blog.leekyoungil.com)
 - [정윤진님, 피보탈 랩](http://www.comworld.co.kr/news/articleView.html?idxno=49227)
