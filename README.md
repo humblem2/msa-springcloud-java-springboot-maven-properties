@@ -1,12 +1,12 @@
 # About msa-springcloud-java-springboot-maven-properties with external remote reposirtory as config-server
 
-> This is description of spring-cloud-config-repository 
-> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with whdms705.
+> This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [OSS Netflix](https://netflix.github.io/))
+> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__.
 
 ### SW Side:
 - Springboot Application Runnable JAR
-- Using Embed WAS and Build/Package/run jar
-    Servlet Engine: Apache Tomcat/8.5.4, Apache Tomcat/8.5.31
+- Using `Embed WAS` and Build/Package/`runnable jar`
+    Servlet Engine: Apache Tomcat/`8.5.4`, Apache Tomcat/`8.5.31`
 - Springboot version:
     Springboot : `1.4.0.RELEASE`
     Springboot : `2.0.2.RELEASE`
