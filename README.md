@@ -1,7 +1,7 @@
 # About msa-springcloud-java-springboot-maven-properties with external remote reposirtory as config-server
 
 > This is description of spring-cloud-config-repository 
-> for "SHARE CONTACT Project (based on MSA Skeleton)" with whdms705
+> for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with whdms705.
 
 ### SW Side:
 - Springboot Application Runnable JAR
@@ -41,7 +41,7 @@
 - Dicovery and Register Server(Eureka Server)(8761)
 - Normal Server(Frontend Server)(8000)(8002)
 - Data Access Server(Backend Server with Swagger) connected RDB(mysql) using mapper(Mybatis)(8787)(Swagger - http://${HOST}:8787/swagger-ui.html)
-- Config Remote Repository(https://github.com/VanillaLab/test-private-config)
+- Config Remote Repository(https://github.com/VanillaLab/test-private-config) or [this](https://github.com/humblem2/test-private-config-for-msa-project)
 
 ### Logging
 - Logger is Logback
@@ -50,6 +50,7 @@
 ![k-10](https://user-images.githubusercontent.com/42057272/44655616-c1b7cb00-aa30-11e8-8cc5-fedbb7ca413b.png)
 
 ### Available URL:
+- https://github.com/humblem2/test-private-config-for-msa-project
 - https://github.com/humblem2
 - https://github.com/humblem2/test-config
 - https://github.com/VanillaLab/test-private-config
