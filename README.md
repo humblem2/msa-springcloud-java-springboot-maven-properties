@@ -20,10 +20,10 @@
 - Maven : `3.3.9`
 
 ### HW Side:
-- Build/Deploy Automation using Github, Travis, AWS S3, AWS CodeDeploy
+- Build/Deploy Automation using Github, Travis, AWS S3, AWS CodeDeploy for 
 - Travis(travis.com)
 - AWS
-    EC2(t2.micro Ubuntu14 [2018. 08. 26], m4.large[2018 .08. 27])
+    EC2(t2.micro Ubuntu14 [2018. 08. 26], `m4.large`[2018 .08. 27])
     Code Deploy
     S3
 
