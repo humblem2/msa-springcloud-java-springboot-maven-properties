@@ -21,6 +21,7 @@
 - [External remote reposirtory as config-server(public repository)](https://github.com/humblem2/test-private-config-for-msa-project)
 
 ### HW Side:
+- On cloud server(using AWS stack)
 - Build/Deploy Automation using Github, Travis, AWS S3, AWS CodeDeploy for 
 - Travis(travis.com)
 - AWS
