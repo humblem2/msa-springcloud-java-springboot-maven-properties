@@ -55,11 +55,11 @@
 - *way1* : You must be setting VM arguments on your IDE when it comes to run 
 Right click on project > Run As > Run Configurations... > update `VM arguments` belows
 e.g.
-
+```
 -Dspring.profiles.active=dev
 -Dserver.port=8761
 -Dignore-noverify
-
+```
 - *way2* : Modify main class > define profile using `setDefaultProfiles()` method
 
 ### Architecture diagram
