@@ -1,7 +1,7 @@
 # About codes with remote reposirtory as config-server
 
 > This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [spring cloud project](https://spring.io/projects/spring-cloud) extends [OSS Netflix](https://netflix.github.io/))
-> for *SHARE CONTACT Project (based on MSA Skeleton)* by [*__humblem2__*](https://github.com/humblem2). And Also Project is maded with *__whdms705__*. Thanks *EH*.  
+> for *SHARE CONTACT Project (based on MSA Skeleton)* by [*__humblem2__*](https://github.com/humblem2). And Also Project is maded with [*__whdms705__*](https://github.com/whdms705). Thanks *EH*.  
 
 ### SW Side:
 - `Springboot` Application `Runnable JAR`
@@ -61,6 +61,7 @@
 - https://github.com/humblem2/test-private-config-for-msa-project
 - https://github.com/humblem2
 - https://github.com/humblem2/test-config
+- https://github.com/whdms705/demo
 - https://github.com/VanillaLab/test-private-config
 - https://swagger.io/
 
