@@ -51,6 +51,17 @@
 
 ![k-10](https://user-images.githubusercontent.com/42057272/44655616-c1b7cb00-aa30-11e8-8cc5-fedbb7ca413b.png)
 
+### VM Arguments
+- *way1* : You must be setting VM arguments on your IDE when it comes to run 
+Right click on project > Run As > Run Configurations... > update VM arguments belows
+e.g.
+'''
+-Dspring.profiles.active=dev
+-Dserver.port=8761
+-Dignore-noverify
+'''
+- *way2* : Modify main class > define profile using `setDefaultProfiles()` method
+
 ### Architecture diagram
 ![architecture](https://user-images.githubusercontent.com/9942522/55782914-418a3580-5ae8-11e9-95d0-6858e2675e66.PNG)
 
