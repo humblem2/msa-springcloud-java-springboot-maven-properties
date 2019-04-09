@@ -54,6 +54,7 @@
 ### Set Run Configurations
 - *way1* : You must be setting VM arguments on your IDE when it comes to run 
 Right click on project > Run As > Run Configurations... > update `VM arguments` belows
+
 e.g.
 ```
 -Dspring.profiles.active=dev
