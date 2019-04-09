@@ -1,6 +1,6 @@
 # About codes with remote reposirtory as config-server
 
-> This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [spring cloud project](https://spring.io/projects/spring-cloud-netflix) extends [OSS Netflix](https://netflix.github.io/))
+> This is description of `msa-springcloud-java-springboot-maven-properties`(MSA Skeleton using [spring cloud project](https://spring.io/projects/spring-cloud) extends [OSS Netflix](https://netflix.github.io/))
 > for "SHARE CONTACT Project (based on MSA Skeleton)" . And Also Project is maded with __whdms705__. Thanks EH.  
 
 ### SW Side:
