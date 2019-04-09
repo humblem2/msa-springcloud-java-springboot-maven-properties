@@ -18,7 +18,7 @@
     Local(Windows) : `community-5.7.11.0`
     Server(Linux) : 
 - Maven : `3.3.9`
-- [External remote reposirtory as config-server()](https://github.com/humblem2/test-private-config-for-msa-project)
+- [External remote reposirtory as config-server(public repository)](https://github.com/humblem2/test-private-config-for-msa-project)
 
 ### HW Side:
 - Build/Deploy Automation using Github, Travis, AWS S3, AWS CodeDeploy for 
