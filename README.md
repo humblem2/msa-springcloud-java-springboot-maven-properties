@@ -53,6 +53,7 @@
 
 ### Available URL:
 - https://spring.io/projects/
+- https://spring.io/projects/spring-cloud-config
 - https://spring.io/projects/spring-cloud-netflix
 - https://github.com/humblem2/test-private-config-for-msa-project
 - https://github.com/humblem2
