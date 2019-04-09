@@ -52,7 +52,7 @@
 ![k-10](https://user-images.githubusercontent.com/42057272/44655616-c1b7cb00-aa30-11e8-8cc5-fedbb7ca413b.png)
 
 ### Architecture diagram
-![k-10](https://github.com/humblem2/msa-springcloud-java-springboot-maven-properties/architecture.png)
+![architecture](https://user-images.githubusercontent.com/9942522/55782914-418a3580-5ae8-11e9-95d0-6858e2675e66.PNG)
 
 ### Available URL:
 - https://spring.io/projects/
